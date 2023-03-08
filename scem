@@ -1,0 +1,11 @@
+echo "# SCEM-SARL" >> LISEZMOI.md 
+git init 
+git add LISEZMOI.md 
+git commit -m "premier commit" 
+git branch -M main 
+git remote add origin https://github.com/scem224/SCEM-SARL. git
+ git push -u origine principal
+
+git remote add origin https://github.com/scem224/SCEM-SARL.git
+ git branch -M principal 
+git push -u origine principal
